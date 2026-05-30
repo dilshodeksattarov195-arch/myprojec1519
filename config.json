@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "authspdate",
+        "uuid": 1534190,
+        "checksum": "10e3hg"
+    },
+    "settings": {
+        "retries": 5,
+        "enabled": false,
+        "mode": "production"
+    }
+}
